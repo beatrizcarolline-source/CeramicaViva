@@ -6,3 +6,4 @@ Sistema de gerenciamento do estabelecimento Cerâmica Viva, com o intuito de sup
 
 - Cadastrar usuário
 - Cadastrar produto
+- Relatório mensal do que entrou e saiu do caixa
